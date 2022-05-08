@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Elektronikai szakszerviz</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">Email cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="woman">Nő</string>
+    <string name="man">Férfi</string>
+    <string name="login_as_quest">Bejelentkezés Vendégként</string>
+    <string name="date_picker">Időpont Kiválasztása</string>
+    <string name="date_pick">Időpont foglaló</string>
+    <string name="send">Küldés</string>
+    <string name="log_out">Kijelentkezés</string>
+    <string-array name="phone_modes">
+        <item>Otthoni</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+</resources>

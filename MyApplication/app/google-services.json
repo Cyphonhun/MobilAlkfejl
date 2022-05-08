@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362232564137",
+    "project_id": "electricdating-da29c",
+    "storage_bucket": "electricdating-da29c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362232564137:android:4a0dd5e6f44ad567fe5cb8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362232564137-i96jikr1arrpj38cp9nfq9auedhllehq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "dceb737b7aeecbfd16b4fb3fc6a5d4274be4d3d6"
+          }
+        },
+        {
+          "client_id": "362232564137-rif28j0il8qonh865302ueueb85kgn2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_WTo9xVUV9eKl9frDUaizfR00kDtudTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362232564137-rif28j0il8qonh865302ueueb85kgn2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
